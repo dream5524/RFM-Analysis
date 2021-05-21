@@ -1,7 +1,6 @@
 # RFM-Analysis
 
-Customer Segmentation is the subdivision of a market into discrete customer groups that share similar characteristics. Customer Segmentation can be a powerful means to identify unsatisfied customer needs. Using the dataset can then outperform the competition by developing uniquely appealing products and services. So,
-How to segment your customers and increase sales with RFM analysis will be shown in this project.
+This project will show the way to increase retention, do segmentation based on churn probability and take actions. But there are also very popular and useful segmentation methods. We will now implement one of them for our business: RFM.
 
 ## Usage:
 The code snippets will run on Jupyter Notebook only
